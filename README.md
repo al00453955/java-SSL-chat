@@ -1,6 +1,6 @@
 # java-SSL-chat
 
-## 10 May 2003
+## 10 May 2003 @ ITESM CEM, MX
 
 ### About
 
